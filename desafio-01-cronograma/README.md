@@ -10,11 +10,11 @@
 
 
 <p align="center">
-  <img width="80%" src="./assets/weekly.png">
+  <img width="100%" src="./assets/weekly.jpg">
 </p>
 
 ## 📅 Cronograma diário
 
 <p align="center">
-  <img width="80%" src="./assets/daily.jpeg">
+  <img width="100%" src="./assets/daily.jpg">
 </p>
